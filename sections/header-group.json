@@ -8,7 +8,7 @@
 * ------------------------------------------------------------
 */
 {
-  "name": "header group",
+  "name": "Header Group",
   "type": "header",
   "sections": {
     "announcementbar": {
