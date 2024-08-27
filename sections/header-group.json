@@ -14,11 +14,13 @@
     "announcementbar": {
       "type": "announcementbar",
       "settings": {
+        "message": "Welcome to our Store"
       }
     },
     "header": {
       "type": "header",
       "settings": {
+        "manu": "main-menu"
       }
     }
   },
